@@ -1,3 +1,4 @@
+![logo]https://github.com/heyariss/heyariss/blob/main/Frame%202%20(1).png
 <h1 align="center">Hi 👋, I'm Riski Aris Sandy</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer</h3>
 
