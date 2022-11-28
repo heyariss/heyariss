@@ -1,3 +1,5 @@
+<body style="font-family: 'poppins', sans-serif;">
+
 ![logo](https://github.com/heyariss/heyariss/blob/main/Frame%202%20(1).png)
 <h1 align="center">Hi 👋, I'm Riski Aris Sandy</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer</h3>
@@ -24,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyariss&show_icons=true&locale=en" alt="heyariss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyariss&" alt="heyariss" /></p>
+</body>
