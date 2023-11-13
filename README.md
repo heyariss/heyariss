@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/heyariss/heyariss/blob/main/Frame%202%20(1).png)
 <h1 align="center">Hi 👋, I'm Riski Aris Sandy</h1>
-<h3 align="center">A passionate frontend developer and UI/UX Designer</h3>
+<h3 align="center">A passionate fullstack developer and UI/UX Designer</h3>
 
 - 🌱 I’m currently learning **Laravel**
 
