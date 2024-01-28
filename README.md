@@ -1,4 +1,4 @@
-<body style="font-family: 'poppins', sans-serif;">
+<body style="font-family: 'Sora', sans-serif;">
 
 ![logo](https://github.com/heyariss/heyariss/blob/main/Frame%202%20(1).png)
 <h1 align="center">Hi 👋, I'm Riski Aris Sandy</h1>
