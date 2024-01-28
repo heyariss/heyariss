@@ -1,12 +1,12 @@
 <body style="font-family: 'Sora', sans-serif;">
 
-![logo](https://github.com/heyariss/heyariss/blob/main/Frame%202%20(1).png)
+![logo](https://github.com/heyariss/heyariss/blob/main/bg-heyariss.png)
 <h1 align="center">Hi 👋, I'm Riski Aris Sandy</h1>
-<h3 align="center">A passionate fullstack developer and UI/UX Designer</h3>
+<h3 align="center">A passionate Fullstack Engineer</h3>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Laravel, Codeigniter, Nodejs,UIUX Design**
+- 💬 Ask me about **Fullstack Engineer, UIUX Design**
 
 - 📫 How to reach me **riskiariss561@gmail.com**
 
